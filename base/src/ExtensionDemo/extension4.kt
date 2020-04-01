@@ -1,6 +1,6 @@
 package com.cjx.ExtensionDemo
 
-import kotlin.reflect.typeOf
+//import kotlin.reflect.typeOf
 
 /**
  * @Auther: cjx

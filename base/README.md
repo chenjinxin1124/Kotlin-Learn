@@ -6,3 +6,4 @@
 ### Kotlin 继承
 ### Kotlin 接口
 ### Kotlin 扩展
+### Kotlin 数据类与密封类

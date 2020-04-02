@@ -10,3 +10,4 @@
 ### Kotlin 泛型
 ### Kotlin 枚举类
 ### Kotlin 对象表达式和对象声明
+### kotlin 委托
